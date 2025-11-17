@@ -41,16 +41,6 @@ python3 -m pip install -r requirements.txt
 python3 main.py
 ```
 
-## 生成测试图片
-
-程序包含一个测试图片生成脚本，可以生成一个简单的10x10数图用于测试：
-
-```bash
-python3 generate_test_image.py
-```
-
-生成的测试图片将保存在[pic](file:///Users/karmy/Projects/SuduPic/pic/)目录下。
-
 ## 使用方法
 
 1. 运行程序：`python3 main.py`
